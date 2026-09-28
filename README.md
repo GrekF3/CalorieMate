@@ -1,4 +1,4 @@
-# Telegram Calorie Tracker
+# CalorieMate
 
 A Telegram bot for meal logging, nutrition lookup, profile settings, and progress summaries.
 
